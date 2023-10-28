@@ -1,0 +1,32 @@
+[
+    {
+        "role": "admin",
+        "username": "mobarok",
+        "email": "mobarok@gmail.com",
+        "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+    },
+    {
+        "role": "user",
+        "username": "mofiz",
+        "email": "mofiz@gmail.com",
+        "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+    },
+    {
+        "role": "manager",
+        "username": "hafiz",
+        "email": "hafiz@gmail.com",
+        "password": ""
+    },
+    {
+        "role": "user",
+        "username": "fahim",
+        "email": "fahim@gmail.com",
+        "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+    },
+    {
+        "role": "user",
+        "username": "toufiq",
+        "email": "toufiq@gmail.com",
+        "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+    }
+]
